@@ -1,6 +1,9 @@
 ### Hi there 👋
 flutter & android
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF">
+<img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=Android&logoColor=#3DDC84">
+<img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=Dart&logoColor=#0175C2">
+<img src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=Flutter&logoColor=#02569B">
 <!--
 **fanthasium/fanthasium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
