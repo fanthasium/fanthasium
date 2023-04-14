@@ -26,5 +26,5 @@ I'll hope to be fullStack App Dev. through the flutter & android ! !
 <img src="https://img.shields.io/badge/Flutter-gray?style=for-the-badge&logo=Flutter&logoColor=#02569B">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanthasium&theme=highcontrast&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanthasium&theme=vue&show_icons=true)
 </div>
