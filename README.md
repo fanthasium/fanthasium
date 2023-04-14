@@ -2,7 +2,7 @@
 <div align = "center">
 Hi there 👋
 	
-I'll hope to be fullStack Dev. through the flutter & android ! !
+I'll hope to be fullStack App Dev. through the flutter & android ! !
 	
 ---
  📑 study note
