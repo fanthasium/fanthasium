@@ -2,7 +2,7 @@
 <div align = "center">
 Hi there 👋
 
-"I hope to become a full-stack app developer using Flutter and Android!"
+"mimi is mime"
 	
 ---
  📑 study note
